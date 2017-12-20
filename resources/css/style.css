@@ -29,74 +29,72 @@ nav {
   text-align: right;
 }
 
-.missioncontainer {
+.missionmain {
   height: 700px;
     background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
 }
 
-.missioncontainer img {
-  height: 100px;
-  width: 100px;
+.missionitem {
+  background-color: black;
+  text-align: center;
+}
+
+.totm {
+  margin-top: 200px;
+  text-align: center;
 }
 
 
-
-
-{
-  height: 200px;
-  width: 300px;
+footer {
+  height: 250px;
+  width: 100%;
 }
 
 h4 {
+  color: grey;
+  text-align: center;
 }
 
-{
-  margin-bottom: 10px
+.donut {
+  padding-bottom: 10px
 }
 
-{
+.locations{
   height: 500px;
+  padding-bottom: 15px;
+  margin-right: 50px;
 }
 
-{
+.locitem {
   padding: 40px;
   width: 300px;
 }
 
-{
+#copyright {
   margin: 20px;
   text-align: left;
 }
 
 h5 {
-
+  text-align:: center;
 }
 
-{
+.steeping {
   height: 200px;
+  width: 300px;
 }
 
 h3 {
-
 }
 
-{
-  margin-top: 15px;
+p {
   opacity: 1;
-}
-
-{
-  width: 1000px;
 }
 
 h2 {
 }
 
-{
-  width: 1200px;
-}
-
-
+**LAST
 
 {
   align-items: center;
@@ -108,8 +106,7 @@ Bedford bizarre img
   https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-bedford-bizarre.jpg
 }
 
-Berry Blitz img {
-  https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-berryblitz.jpg
+
 }
 Donut img {
   https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-donut.jpg
